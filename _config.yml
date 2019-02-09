@@ -36,3 +36,9 @@ defaults:
       type: web
     values:
       layout: single
+  # _pwn
+  - scope:
+      path: ""
+      type: pwn
+    values:
+      layout: single
