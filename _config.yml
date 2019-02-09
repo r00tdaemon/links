@@ -10,6 +10,8 @@ title                    : "Important links"
 description              : "Site to save important links"
 logo                     : #
 
+include:
+  - _pages
 markdown: kramdown
 
 collections:
