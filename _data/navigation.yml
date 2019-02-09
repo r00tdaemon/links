@@ -1,0 +1,5 @@
+main:
+  - title: "Web"
+    url: /web/
+  - title: "Pwn"
+    url: /pwn/
