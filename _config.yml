@@ -6,8 +6,8 @@ remote_theme: "mmistakes/minimal-mistakes@4.15.1"
 minimal_mistakes_skin    : "dark"
 
 locale                   : "en-US"
-title                    : "Important links"
-description              : "Site to save important links"
+title                    : "Useful links"
+description              : "Site to save useful links"
 logo                     : #
 
 include:
