@@ -3,3 +3,11 @@ main:
     url: /web/
   - title: "Pwn"
     url: /pwn/
+  - title: "RE"
+    url: /re/
+  - title: "Crypto"
+    url: /crypto/
+  - title: "Misc"
+    url: /misc/
+
+
