@@ -13,6 +13,7 @@ logo                     : #
 include:
   - _pages
 markdown: kramdown
+search: true
 
 collections:
   web:
