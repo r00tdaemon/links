@@ -1,6 +1,6 @@
 links:
   allowedFields: ["title", "link", "description", "category"]
-  branch: "master"
+  branch: "gh-pages"
   commitMessage: "Add Staticman data"
   filename: "entry{@timestamp}"
   format: "frontmatter"
