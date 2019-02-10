@@ -1,5 +1,5 @@
 links:
-  allowedFields: ["title", "link", "description", "category"]
+  allowedFields: ["title", "link", "excerpt", "content", "header","category"]
   branch: "gh-pages"
   commitMessage: "Add Staticman data"
   filename: "entry{@timestamp}"
@@ -14,4 +14,4 @@ links:
   requiredFields: ["title", "link", "category"]
 
   transforms:
-    description: "frontmatterContent"
+    content: "frontmatterContent"
