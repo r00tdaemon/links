@@ -2,9 +2,10 @@ links:
   allowedFields: ["title", "link", "excerpt", "content", "header","category"]
   branch: "gh-pages"
   commitMessage: "Add Staticman data"
+  pullRequestBody: "New link added"
   filename: "entry{@timestamp}"
   format: "frontmatter"
-
+  
   generatedFields:
     date:
       type: date
