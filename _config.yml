@@ -38,35 +38,55 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: collection
+      classes: wide
   # _web
   - scope:
       path: ""
       type: web
     values:
       layout: single
+      classes: wide
+      header:
+        overlay_color: "#008288"
+        overlay_filter: 0.5
   # _pwn
   - scope:
       path: ""
       type: pwn
     values:
       layout: single
+      classes: wide
+      header:
+        overlay_color: "#008288"
+        overlay_filter: 0.5
   # _re
   - scope:
       path: ""
       type: re
     values:
       layout: single
+      classes: wide
+      header:
+        overlay_color: "#008288"
+        overlay_filter: 0.5
   # _crypto
   - scope:
       path: ""
       type: crypto
     values:
       layout: single
+      classes: wide
+      header:
+        overlay_color: "#008288"
+        overlay_filter: 0.5
   # _misc
   - scope:
       path: ""
       type: misc
     values:
       layout: single
-
+      classes: wide
+      header:
+        overlay_color: "#008288"
+        overlay_filter: 0.5
