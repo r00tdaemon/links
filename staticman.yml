@@ -2,6 +2,7 @@ links:
   allowedFields: ["title", "link", "excerpt", "content", "header","category"]
   branch: "gh-pages"
   commitMessage: "Add Staticman data"
+  pullRequestTable: false
   filename: "entry{@timestamp}"
   format: "frontmatter"
 
