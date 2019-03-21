@@ -2,7 +2,7 @@ links:
   allowedFields: ["title", "link", "excerpt", "content", "header","category"]
   branch: "master"
   commitMessage: "Add Staticman data"
-  pullRequestTable: false
+  confParam: false
   filename: "entry{@timestamp}"
   format: "frontmatter"
 
