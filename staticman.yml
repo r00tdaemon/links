@@ -10,7 +10,7 @@ links:
     date:
       type: date
 
-  moderation: true
+  moderation: false
   staticmanToken: "CJM+v1xAWfyg9M/7TAZFNs1oDxqTlt4PFO7ZjkaOIhmVtyeS8dqiy3kH6nmc029p1S+7SLwkCsg9gzwO4qmGDOeIxZOrUPeYBbsEnIC3+Omgy1XEJXKybMIQQRM0Qjg856ivzLGMlIUywChCk/3AZlgtiHm97l2SvyVgEOpDNL0VjCi0nIdd0U4r/aCc8P8S+gkNt7BtO9QPyyc6aQpHAOCLhtUX0bSGERlJOZUXHHGRIdU0+G42+LxGnaN89ZN7Clx6GaYpmLQk6l34OXxPcdZtLTVhtuAGg/trCHCT29q37eLjO3qYD7tOLWgGBMJwac45ekERMkhlcuUaNujX4w=="
   path: "_{fields.category}"
   requiredFields: ["title", "link", "category", "user"]
